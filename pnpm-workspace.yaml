@@ -1,0 +1,6 @@
+# Scripts de instalação permitidos (pnpm bloqueia por padrão).
+allowBuilds:
+  esbuild: true
+  # Não são necessários: firebase-admin só usa o Firestore no servidor.
+  '@firebase/util': false
+  protobufjs: false

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" shape-rendering="crispEdges">
+  <!-- QR Code ILUSTRATIVO: substitua por public/pix-qr.png com o QR definitivo dos noivos -->
+  <rect width="29" height="29" fill="#fff"/>
+  <g fill="#3B3632">
+    <path d="M1 1h7v7H1zM2 2v5h5V2zM3 3h3v3H3z" fill-rule="evenodd"/>
+    <path d="M21 1h7v7h-7zM22 2v5h5V2zM23 3h3v3h-3z" fill-rule="evenodd"/>
+    <path d="M1 21h7v7H1zM2 22v5h5v-5zM3 23h3v3H3z" fill-rule="evenodd"/>
+    <path d="M10 1h1v1h-1zM12 1h2v1h-2zM15 2h1v2h-1zM17 1h2v1h-2zM10 3h2v1h-2zM13 4h1v2h-1zM18 3h1v3h-1zM10 6h1v2h-1zM12 7h3v1h-3zM16 6h1v1h-1zM19 7h1v1h-1z"/>
+    <path d="M1 10h2v1H1zM4 10h1v2H4zM6 9h2v1H6zM1 12h1v2H1zM3 13h3v1H3zM7 11h1v3H7zM2 15h2v1H2zM5 15h1v2H5zM1 17h1v2H1zM3 18h3v1H3zM7 16h1v1H7z"/>
+    <path d="M10 10h3v1h-3zM14 9h1v3h-1zM16 10h2v1h-2zM19 9h1v2h-1zM11 12h1v2h-1zM13 13h3v1h-3zM17 12h1v3h-1zM10 15h2v1h-2zM13 15h1v2h-1zM15 16h2v1h-2zM19 14h1v1h-1zM11 17h1v2h-1zM14 18h3v1h-3zM18 17h2v1h-2z"/>
+    <path d="M21 10h2v1h-2zM24 9h1v2h-1zM26 10h2v1h-2zM22 12h1v2h-1zM25 12h3v1h-3zM21 15h3v1h-3zM26 14h1v3h-1zM23 17h2v1h-2zM27 18h1v1h-1z"/>
+    <path d="M10 21h1v2h-1zM12 20h2v1h-2zM15 21h1v1h-1zM17 20h1v3h-1zM11 24h3v1h-3zM15 23h1v2h-1zM10 26h2v1h-2zM13 26h1v2h-1zM16 26h2v1h-2zM19 21h1v2h-1z"/>
+    <path d="M21 21h5v5h-5zM22 22v3h3v-3zM23 23h1v1h-1z" fill-rule="evenodd"/>
+    <path d="M27 21h1v2h-1zM20 25h1v3h-1zM22 27h3v1h-3zM27 25h1v3h-1z"/>
+  </g>
+</svg>
